@@ -2,6 +2,7 @@
 @using HttpClients.ClientInterfaces
 @using Domain.Models
 @using Domain.DTOs
+@using Microsoft.AspNetCore.Authorization
 @inject IPostService postService;
 @inject NavigationManager NavigationManager;
 @attribute [Authorize]

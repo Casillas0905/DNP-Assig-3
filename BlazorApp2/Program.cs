@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
-using BlazorWASM;
+using BlazorApp2;
 using BlazorWASM.Auth;
 using BlazorWASM.Services;
 using BlazorWASM.Services.Http;
